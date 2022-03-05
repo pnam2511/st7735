@@ -94,11 +94,13 @@ int main(void)
   MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
 	
-  ST7735_init();
+	//Change here
 	
-	ST7735_Clr();
-	
-	inhinhanh();
+//  ST7735_init();
+//	
+//	ST7735_Clr();
+//	
+//	inhinhanh();
 
   /* USER CODE END 2 */
 
